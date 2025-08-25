@@ -1,0 +1,1 @@
+python generator.py --title "YOUR TITLE HERE" --words 1800
